@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",29/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",04/03/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/02/27/gkan8X.12-9-novo-cd-650x500px-jpg.webp" group-title="PIX PARA AJUDAR LISTA FICAR ATIVA ",adailsongoncalves401@gmail.com 
@@ -55,20 +55,14 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 
 ############################################################################ Canais | REALITY BBB 24
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298259
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Quarto Fada HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298265
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 1 HD
+https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Quarto Gnomo HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298268
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB BBB Cozinha HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298274
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298262
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB BBB Mosaico HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298283
+#EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
+https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
 
 ############################################################################ Canais | ABERTO
 
